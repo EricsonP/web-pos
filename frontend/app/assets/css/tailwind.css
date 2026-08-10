@@ -5,3 +5,7 @@
 @theme {
     --font-sans: 'Manrope', sans-serif;
 }
+
+html, body{
+  font-size: 13px;
+}
